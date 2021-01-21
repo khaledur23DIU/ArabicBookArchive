@@ -1,0 +1,261 @@
+@media (min-width: 993px) {
+    .position {
+        width: 20%;
+        margin-left: 80%;
+    }
+}
+
+@media only screen and (max-width: 992px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 930px;
+    }
+    .logo-wrapper {
+        float: right;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 770px;
+    }
+}
+@media only screen and (max-width: 920px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 760px;
+    }
+    .logo-wrapper {
+        float: right;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 470px;
+    }
+}
+@media only screen and (max-width: 865px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 750px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 370px;
+    }
+}
+@media only screen and (max-width: 814px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 720px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 340px;
+    }
+}
+@media only screen and (max-width: 800px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 690px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 510px;
+    }
+}
+@media only screen and (max-width: 769px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 670px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 550px;
+    }
+}
+@media only screen and (max-width: 749px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 650px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 480px;
+    }
+}
+@media only screen and (max-width: 729px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 630px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 470px;
+    }
+}
+@media only screen and (max-width: 709px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 615px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 465px;
+    }
+}
+@media only screen and (max-width: 689px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 595px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 430px;
+    }
+}
+@media only screen and (max-width: 669px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 580px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 410px;
+    }
+}
+@media only screen and (max-width: 654px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 560px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 390px;
+    }
+}
+@media only screen and (max-width: 634px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 545px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 380px;
+    }
+}
+@media only screen and (max-width: 619px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 525px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 370px;
+    }
+}
+@media only screen and (max-width: 604px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 510px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 360px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 500px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 355px;
+    }
+}
+@media only screen and (max-width: 589px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 490px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 345px;
+    }
+}
+@media only screen and (max-width: 567px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 480px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 330px;
+    }
+}
+@media only screen and (max-width: 559px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 470px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 325px;
+    }
+}
+@media only screen and (max-width: 549px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 450px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 315px;
+    }
+}
+@media only screen and (max-width: 539px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 440px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 310px;
+    }
+}
+@media only screen and (max-width: 529px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 430px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 300px;
+    }
+}
+@media only screen and (max-width: 519px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 420px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 290px;
+    }
+}
+@media only screen and (max-width: 504px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 405px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 280px;
+    }
+}
+@media only screen and (max-width: 489px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 400px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 270px;
+    }
+}
+@media only screen and (max-width: 474px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 395px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 260px;
+    }
+}
+@media only screen and (max-width: 459px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 380px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 250px;
+    }
+}
+@media only screen and (max-width: 444px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 365px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 240px;
+    }
+}
+@media only screen and (max-width: 428px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 350px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 230px;
+    }
+}
+@media only screen and (max-width: 414px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 380px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 220px;
+    }
+}
+@media only screen and (max-width: 320px){
+    .sidenav-main .btn-sidenav-toggle {
+        left: 260px;
+    }
+    .brand-sidebar .brand-logo {
+        margin: 1px 0px 1px 150px;
+    }
+}
